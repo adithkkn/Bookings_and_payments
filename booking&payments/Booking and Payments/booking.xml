@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="railway.xsl"?>
+<?xml-stylesheet type="text/xsl" href="NewStylesheet.xsl"?>
 <Railway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:noNamespaceSchemaLocation="railway.xsd">
+xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
 
    <BookingAndPayments>
       <trainno>1236</trainno>
@@ -76,7 +76,7 @@ xsi:noNamespaceSchemaLocation="railway.xsd">
       <bookingstatus>successful</bookingstatus>
       <stationCode>1974</stationCode>
    </BookingAndPayments>
-   
+
 
    <BookingAndPayments>
       <trainno>1940</trainno>
